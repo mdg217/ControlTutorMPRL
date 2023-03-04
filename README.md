@@ -1,5 +1,5 @@
 # ControlTutorMPRL
-Thesis work
+Thesis project
 
 # Preliminary Instruction
 ## Install Conda with Jupyter Notebook
