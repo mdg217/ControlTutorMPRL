@@ -21,6 +21,7 @@ To install **OpenAiGym** you need to use two commands:
 
 ## Example OpenAiGym
 ### Lunar Lander
+Documentation: https://www.gymlibrary.dev/environments/box2d/lunar_lander/
 ```python
 import gym
 env = gym.make("LunarLander-v2", render_mode="human")
