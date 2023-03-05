@@ -3,7 +3,7 @@ Thesis project
 
 # Preliminary Instruction
 ## Install Conda with Jupyter Notebook
-To install the notebook click on this link and download the conda version: https://www.anaconda.com/products/distribution\
+To install the notebook click on this link and download the conda version: https://www.anaconda.com/products/distribution \
 After the installation you will have all the components to work on your python and RL projects.
 
 ## Issue with "pip install"
